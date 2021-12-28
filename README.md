@@ -1,2 +1,2 @@
-# HTML-CSS-Module3
+# Responsive Page Design
 HTML And CSS Projects
